@@ -1,0 +1,43 @@
+{
+    "tokenapp": "",
+    "android": "",
+    "device": "",
+    "locale": "",
+    "deviceToken": "",
+    "managerAPI": "",
+    "proxies": {
+        "http": ""
+    },
+    "buffVideo": [
+        {
+            "IDVideo": "",
+            "viewPerVideo": "",
+            "secondsPerView": ""
+        },
+        {
+            "IDVideo": "",
+            "viewPerVideo": "",
+            "secondsPerView": ""
+        },
+        {
+            "IDVideo": "",
+            "viewPerVideo": "",
+            "secondsPerView": ""
+        },
+        {
+            "IDVideo": "",
+            "viewPerVideo": "",
+            "secondsPerView": ""
+        },
+        {
+            "IDVideo": "",
+            "viewPerVideo": "",
+            "secondsPerView": ""
+        },
+        {
+            "IDVideo": "",
+            "viewPerVideo": "",
+            "secondsPerView": ""
+        }
+    ]
+}

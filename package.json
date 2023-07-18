@@ -1,0 +1,25 @@
+{
+	"name": "Tuberocket CLI",
+	"version": "2.0.3",
+	"description": "Easily get Coins to automatically increase the views for your Video on Youtube! Developed by Binhake ツ.",
+	"main": "tool.js",
+	"scripts": {
+		"start": "node tool.js"
+	},
+	"author": "Nguyen Trong Binh",
+	"license": "ISC",
+	"dependencies": {
+		"axios": "^1.2.3",
+		"express": "^4.18.2",
+		"hidefile": "^3.0.0",
+		"https-proxy-agent": "^5.0.1",
+		"jsonwebtoken": "^9.0.0",
+		"node-graceful": "^3.1.0",
+		"node-graceful-shutdown": "^1.1.0",
+		"open": "^9.1.0",
+		"public-ip": "^4.0.4",
+		"readline-sync": "^1.4.10",
+		"socks-proxy-agent": "^8.0.1",
+		"terminal-kit": "^3.0.0"
+	}
+}

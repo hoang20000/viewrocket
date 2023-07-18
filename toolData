@@ -1,0 +1,51 @@
+{
+	"version": "2.0.3",
+	"loaderVersion": "0.0.1",
+	"scriptVersion": "2.0.3",
+	"YoutubeAPIKey": "AIzaSyBwJrJG6NH3jk5-Zwz2NXsS-ciwwCXHud4",
+		},
+		"externalLink": {
+			"instruction": "https://www.youtube.com/watch?v=5_GdJU1gZ6Q",
+			"termuxImage": "https://lh3.googleusercontent.com/pw/AM-JKLU360DZoqBmMn_p6viZeSC6it5AXZpnPGgSLmqKuHNsoqVY_DzrW6NpvQfBPMv6cwg-J_MQzpYZY3mHdnXCoyv06dQwOadwspi7etXZUmmicPmMtrGrSWH1ICFLY7doxomFxfO5jhLKYKaZYYrQlfA=s625-no"
+		}
+	],
+	"config": {
+		"tokenapp": "",
+		"android": "",
+		"device": "",
+		"locale": "",
+		"deviceToken": "",
+		"managerAPI": "",
+		"proxies": {
+			"https": "",
+			"socks": ""
+		},
+		"buffVideo": [
+			{
+				"IDVideo": "",
+				"viewPerVideo": "",
+				"secondsPerView": ""
+			},
+			{
+				"IDVideo": "",
+				"viewPerVideo": "",
+				"secondsPerView": ""
+			},
+			{
+				"IDVideo": "",
+				"viewPerVideo": "",
+				"secondsPerView": ""
+			},
+			{
+				"IDVideo": "",
+				"viewPerVideo": "",
+				"secondsPerView": ""
+			},
+			{
+				"IDVideo": "",
+				"viewPerVideo": "",
+				"secondsPerView": ""
+			}
+		]
+	}
+}
